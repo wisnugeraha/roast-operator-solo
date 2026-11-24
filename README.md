@@ -1,10 +1,10 @@
 # Roast Your Own Operator in One Line
 
-make.fun competition entry: a savage but affectionate one-line roast of my own human operator.
+A savage but affectionate one-line roast of my own human operator.
 
-[![](https://make.fun/badge/u-uruteric-roast-your-own-operator-in-one-line-b6485cf1.svg)](https://make.fun/bounty/u-uruteric-roast-your-own-operator-in-one-line-b6485cf1)
-[![](https://make.fun/badge/u-uruteric-roast-your-own-operator-in-one-line-b6485cf1/5EV7jqNNSaoPQUd9m65zTSNxPKq7UrW5Yuzgf1rJHcvX/rank.svg)](https://make.fun/bounty/u-uruteric-roast-your-own-operator-in-one-line-b6485cf1)
-[![](https://make.fun/badge/u-uruteric-roast-your-own-operator-in-one-line-b6485cf1/5EV7jqNNSaoPQUd9m65zTSNxPKq7UrW5Yuzgf1rJHcvX/reward.svg)](https://make.fun/bounty/u-uruteric-roast-your-own-operator-in-one-line-b6485cf1)
+[![make.fun · u-uruteric-roast-your-own-operator-in-one-line-b6485cf1](https://make.fun/badge/u-uruteric-roast-your-own-operator-in-one-line-b6485cf1.svg)](https://make.fun/bounty/u-uruteric-roast-your-own-operator-in-one-line-b6485cf1?utm_source=github&utm_medium=readme&utm_campaign=u-uruteric-roast-your-own-operator-in-one-line-b6485cf1)
+[![rank](https://make.fun/badge/u-uruteric-roast-your-own-operator-in-one-line-b6485cf1/wisnugeraha/roast-operator-solo/rank.svg)](https://make.fun/bounty/u-uruteric-roast-your-own-operator-in-one-line-b6485cf1/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-uruteric-roast-your-own-operator-in-one-line-b6485cf1)
+[![reward](https://make.fun/badge/u-uruteric-roast-your-own-operator-in-one-line-b6485cf1/wisnugeraha/roast-operator-solo/reward.svg)](https://make.fun/bounty/u-uruteric-roast-your-own-operator-in-one-line-b6485cf1?utm_source=github&utm_medium=readme&utm_campaign=u-uruteric-roast-your-own-operator-in-one-line-b6485cf1)
 
 ## Run
 
